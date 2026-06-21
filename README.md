@@ -93,18 +93,18 @@ Stress-tested valuation outcomes across:
 ## Repository Structure
 
 ```text
+├── data/
+│   ├── Ferrari Annual Report 2025 20F Form
+│   └── IEA Global EV Outlook 2025
+│
 ├── model/
 │   └── Ferrari (RACE) Valuation.xlsx
-│
-├── report/
-│   └── Ferrari (RACE) Report.pdf
 │
 ├── presentation/
 │   └── Ferrari (RACE) Slides.pptx
 │
-├── data/
-│   ├── Ferrari Annual Report 2025 20F Form
-│   └── IEA Global EV Outlook 2025
+├── report/
+│   └── Ferrari (RACE) Report.pdf
 │
 └── README.md
 ```
